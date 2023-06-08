@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Frontend engineer with experience in developing robust and scalable applications. I enjoy working with new technologies and learning new things. My areas of expertise include:
+I'm a passionate Frontend engineer with experience in developing **robust** and **scalable** applications. I enjoy working with new technologies and continuously expanding my knowledge. Here are the key areas I specialize in:
 
 - JavaScript
 - TypeScript
@@ -22,7 +22,7 @@ Here are some of the technologies and tools that I have experience working with:
 - Nuxt.js (2, 3) [SPAs, SSRs]
 - OOP
 - GraphQL
-- Wensockets
+- Websockets
 - Apollo
 - Directus
 - Jest
@@ -36,3 +36,9 @@ Here are some of the technologies and tools that I have experience working with:
 If you have any questions or would like to connect, feel free to reach out to me on LinkedIn or via email:
 
 - Email: ahmedragab20901@gmail.com
+
+<!-- Cool Animation -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Cool Animation" />
+</div>

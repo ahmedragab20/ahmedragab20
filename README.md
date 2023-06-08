@@ -37,8 +37,8 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 - Email: ahmedragab20901@gmail.com
 
-<!-- Cool Animation -->
+<!-- Lazy Developer Image -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Cool Animation" />
+  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="Lazy Developer" />
 </div>

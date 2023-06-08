@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" />
+  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" />
+</div>
+
 # 👋 Hello there, I'm Ahmed Ragab!
 
 [![GitHub followers](https://img.shields.io/github/followers/ahmedragab20?style=social)](https://github.com/ahmedragab20)
@@ -36,9 +41,3 @@ Here are some of the technologies and tools that I have experience working with:
 If you have any questions or would like to connect, feel free to reach out to me on LinkedIn or via email:
 
 - Email: ahmedragab20901@gmail.com
-
-<!-- Lazy Developer Image -->
-
-<div align="center">
-  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" alt="Lazy Developer" />
-</div>

@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" />
+  <div>
+    <img src="[https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif](http://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif)" />
+  </div>
 </div>
 
 # 👋 Hello!!!
@@ -23,7 +25,7 @@ I'm a passionate Frontend engineer with experience in developing **robust** and 
 - Jest ✅: A JavaScript testing framework for writing unit tests focusing on simplicity and speed.
 - PWAs 📱: Progressive Web Apps, which use modern web capabilities to deliver an app-like experience to users.
 - GraphQL 🔗: A query language for APIs that enables efficient data fetching and provides a flexible and powerful approach to data manipulation.
-- Websockets 🌐: A communication protocol that provides full-duplex communication channels over a single TCP connection, allowing real-time data transfer between the client and the server.
+- WebSockets 🌐: A communication protocol that provides full-duplex communication channels over a single TCP connection, allowing real-time data transfer between the client and the server.
 - Firebase 🔥: A comprehensive development platform by Google that offers a range of services, including authentication, hosting, database, and storage.
 
 > Just a point worthy of mentioning, these are not the only ones I use!😎

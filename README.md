@@ -12,7 +12,6 @@ I'm a passionate Frontend engineer with experience in developing **robust** and 
 
 - JavaScript
 - TypeScript
-- **React.js**
 - Vue.js
 - Nuxt.js
 

@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-ragab-bb75541b3)](https://www.linkedin.com/in/ahmed-ragab-bb75541b3)
 
 ## 👀 About Me
-I'm a passionate Frontend engineer with experience in developing **robust** and **scalable** applications. I enjoy working with new technologies and continuously expanding my knowledge. Here are the key areas I specialize in:
+I'm a Frontend engineer with experience in developing **robust** and **scalable** applications. I enjoy working with new technologies and continuously expanding my knowledge. Here are the key areas I specialize in:
 
 - JavaScript
 - TypeScript

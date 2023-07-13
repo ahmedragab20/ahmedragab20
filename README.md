@@ -1,7 +1,5 @@
 <div align="center">
-  <div style="pointer-events: none;
-    border-radius: 25px;
-    user-select: none;">
+  <div>
     <img src="http://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif" />
   </div>
 </div>

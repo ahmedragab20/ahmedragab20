@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" />
+    <img src="http://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif" />
   </div>
 </div>
 

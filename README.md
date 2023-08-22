@@ -1,7 +1,8 @@
 ### Hey dude
 
 about me?
-I write code with Javascript/Typescript.
+I write code with Javascript/Typescript and some other tools.
+frameworks of expertise? vue, nuxt, and also I had some experience working with react.js (library).
 
 have something to say? ahmedragab20901@gmail.com
 

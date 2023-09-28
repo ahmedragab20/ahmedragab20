@@ -3,7 +3,7 @@
 about me?
 I write code with Javascript/Typescript.
 
-frameworks of expertise? vue, nuxt, and also I had some experience working with react.js (library).
+frameworks of expertise? vue, nuxt, I also have some experience working with react/next
 
 wanna say hi? ahmedragab20901@gmail.com
 

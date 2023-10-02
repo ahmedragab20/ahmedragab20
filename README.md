@@ -1,9 +1,10 @@
 ### Hey dude
 
-about me?
-I write code with Javascript/Typescript.
+what do I do?
+I write JS/TS code that runs everywhere.
 
-frameworks of expertise? vue, nuxt, I also have some experience working with react/next
+technologies: vue/nuxt - react/next - node/express
+databases: MongoDB - Cloud Firestore - Postgresql
 
 wanna say hi? ahmedragab20901@gmail.com
 

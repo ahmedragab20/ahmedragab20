@@ -1,7 +1,7 @@
 ### Hey dude
 
 what do I do?
-I write JS/TS code that runs everywhere.
+I write JS/TS code to run everywhere.
 
 technologies: vue/nuxt - react/next - node/express
 

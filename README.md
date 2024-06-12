@@ -2,7 +2,7 @@
 
 **I write JS/TS code that runs everywhere.**
 
-> vue/nuxt - react/next - node/express
+> vue/nuxt - react/next - node/express/nest
 
 > MongoDB - Cloud Firestore - Postgresql
 

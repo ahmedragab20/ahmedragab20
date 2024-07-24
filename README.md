@@ -1,10 +1,6 @@
 ### Hey dude
 
-**I write JS/TS code that runs everywhere.**
-
-> vue/nuxt - react/next - node/express/nest
-
-> MongoDB - Cloud Firestore - Postgresql
+I write JS/TS code that runs everywhere.
 
 say hi? ahmedragab20901@gmail.com
 

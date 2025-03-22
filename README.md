@@ -1,6 +1,6 @@
 ### Hey dude
 
-I write JS/TS code that runs everywhere.
+I like to write that runs everywhere.
 
 say hi? ahmedragab20901@gmail.com
 

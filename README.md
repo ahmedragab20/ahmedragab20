@@ -1,6 +1,6 @@
 ### Hey dude
 
-I like to write that runs everywhere.
+I like to write code that runs everywhere. inshallah :)
 
 say hi? ahmedragab20901@gmail.com
 

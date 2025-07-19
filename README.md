@@ -1,6 +1,6 @@
-### Hey dude
+#### Hey dude ❤️
 
-I like to write code that runs everywhere. inshallah :)
+I try to write code that runs everywhere. inshallah :)
 
 say hi? ahmedragab20901@gmail.com
 

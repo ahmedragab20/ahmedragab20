@@ -1,7 +1,7 @@
 #### Hey dude ❤️
 
-I try to write code that runs everywhere. inshallah :)
+Software Engineer with obbsession about performance
 
-say hi? ahmedragab20901@gmail.com
+say hi? [ahmedragab.info](https://ahmedragab.info)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-ragab-bb75541b3)](https://www.linkedin.com/in/ahmed-ragab-bb75541b3)

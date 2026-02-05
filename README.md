@@ -1,6 +1,6 @@
 #### Hey dude ❤️
 
-Software Engineer with obbsession about performance
+Software Engineer with obbsession about performance and safty
 
 say hi? [ahmedragab.info](https://ahmedragab.info)
 
